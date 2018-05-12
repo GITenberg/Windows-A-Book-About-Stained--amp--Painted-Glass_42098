@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '33236'
     url: http://www.gutenberg.org/2009/agents/33236
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42098#Windows-A-Book-About-Stained--amp--Painted-Glass
 gutenberg_issued: '2013-02-15'
 gutenberg_type: Text
 identifiers:
