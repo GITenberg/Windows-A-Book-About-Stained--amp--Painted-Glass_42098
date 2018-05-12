@@ -1,0 +1,29 @@
+_repo: Windows-A-Book-About-Stained--amp--Painted-Glass_42098
+_version: 0.1.0
+alternative_title: 'Windows: A Book About Stained and Painted Glass'
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Day, Lewis F. (Lewis Foreman)
+    alias: Day, Lewis Foreman
+    birthdate: 1845
+    deathdate: 1910
+    gutenberg_agent_id: '33236'
+    url: http://www.gutenberg.org/2009/agents/33236
+description: ''
+gutenberg_issued: '2013-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42098'
+  lccn: '01006421'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NK'
+- !lcsh 'Glass painting and staining'
+title: 'Windows: A Book About Stained & Painted Glass'
+url: http://www.gutenberg.org/ebooks/42098
